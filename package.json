@@ -1,6 +1,6 @@
 {
   "name": "angular-new-router",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "The Component Router for Angular 1",
   "homepage": "https://github.com/angular/router",
   "main": "index.js",
