@@ -162,6 +162,8 @@
               resolvedLocals = locals;
             }).then(function () {
               return true;
+            }).catch(function () {
+              angular.noop
             });
           };
         }
