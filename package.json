@@ -1,6 +1,6 @@
 {
   "name": "angular-new-router",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "The Component Router for Angular 1",
   "homepage": "https://github.com/angular/router",
   "main": "index.js",
@@ -12,11 +12,12 @@
     "url": "https://github.com/angular/router/issues"
   },
   "dependencies": {
+    "angular2": "^2.0.0-beta.8"
   },
   "devDependencies": {
-    "angular": "1.5.x",
-    "angular-animate": "^1.5.3",
-    "angular-mocks": "^1.5.3",
+    "angular": "1.6.x",
+    "angular-animate": "1.6.x",
+    "angular-mocks": "1.6.x",
     "es6-shim": "^0.35.0",
     "fs-extra": "^0.26.5",
     "jasmine-core": "^2.4.1",
